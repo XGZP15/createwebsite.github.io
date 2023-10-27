@@ -9,7 +9,7 @@
 		<nav>
 			<ul>
 				<li><a href="https://stickman.pro/">stickman game</a></li>
-				<li><a href="#services">Services</a></li>
+				<li><a href="https://github.com/">Make your own websiteuse github</a></li>
 				<li><a href="#contact">Contact</a></li>
 			</ul>
 		</nav>
